@@ -1,4 +1,10 @@
-# Heya, I'm [Luc Angevare](https://lucangevare.github.io)<br><br>
+# Heya, I'm [Luc Angevare](https://lucangevare.github.io)<br>
+
+Heya, I'm Luc Angevare. I have been programming in Python since I was 11 and I have been trying new things ever since. My biggest goal is to become a professional developer and my current goal is to make a virtual, voice-controlled, NLP assistant.<br>
+I love getting feedback and improving so please, if there's anything I can do better or should change, please tell me!<br>
+Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.<br>
+<hr>
+
 ### My profiles
 <a href="https://discord.gg/uEveqdr">
   <img align="left" alt="TechVerse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -16,10 +22,6 @@
   <img align="left" alt="Medium.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a><br>
 <hr>
-Heya, I'm Luc Angevare. I have been programming in Python since I was 11 and I have been trying new things ever since. My biggest goal is to become a professional developer and my current goal is to make a virtual, voice-controlled, NLP assistant.<br>
-I love getting feedback and improving so please, if there's anything I can do better or should change, please tell me!<br>
-Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.<br>
-<hr>
 - 💻 I’m currently working on <a href="https://github.com/LucAngevare/API">my API</a>, this is going to be part of a voice-activated virtual assistant<br>
 - 🌱 I’m currently learning NodeJS and C++<br>
 - 🤝 I’m looking to collaborate on <a href="https://github.com/LucAngevare/API">my API</a><br>
@@ -28,7 +30,7 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 - 📫 <a href="mailto:lucangevare@gmail.com">Or send me an e-mail</a><br>
 <hr>
 
-### My latest Stackoverflow posts
+### My latest StackOverflow posts
 <!-- STACKOVERFLOW:START -->
 - [Answer by Luc Angevare for (Node.JS Jimp) How do I center my text?](https://stackoverflow.com/questions/50330430/node-js-jimp-how-do-i-center-my-text/63235857#63235857)
 - [How to start recording when something is said Python?](https://stackoverflow.com/questions/53691128/how-to-start-recording-when-something-is-said-python)
@@ -39,6 +41,10 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 
 <br>
 <hr>
+<h3>My most used programming languages</h3>
+
+<img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucAngevare&layout=compact&hide=html,css"/>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -48,3 +54,7 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <hr>
+
+
+<h3>My GitHub stats</h3>
+<img align="left" alt="LucAngevare's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LucAngevare&count_private=true&show_icons=true"/>
