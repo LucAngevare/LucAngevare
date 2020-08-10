@@ -20,11 +20,11 @@
 <br><br>
 Heya, I'm Luc Angevare. I have been programming in Python since I was 11 and I have been trying new things ever since. My biggest goal is to become a professional developer and my current goal is to make a virtual, voice-controlled, NLP assistant.<br>
 I love getting feedback and improving so please, if there's anything I can do better or should change, please tell me!<br>
-Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.
+Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.<br>
 ---<br>
-- 💻 I’m currently working on [my API](https://github.com/LucAngevare/API), this is going to be part of a voice-activated virtual assistant
-- 🌱 I’m currently learning NodeJS and C++
-- 🤝 I’m looking to collaborate on [my API](https://github.com/LucAngevare/API)
-- 🤔 I’m looking for help with Natural Language Processing in C++
-- 💬 [Ask me anything on Discord, I'll always do my best to help :P](https://discord.gg/uEveqdr)
-- 📫 [Or send me an e-mail](mailto:lucangevare@gmail.com)
+- 💻 I’m currently working on [my API](https://github.com/LucAngevare/API), this is going to be part of a voice-activated virtual assistant<br>
+- 🌱 I’m currently learning NodeJS and C++<br>
+- 🤝 I’m looking to collaborate on [my API](https://github.com/LucAngevare/API)<br>
+- 🤔 I’m looking for help with Natural Language Processing in C++<br>
+- 💬 [Ask me anything on Discord, I'll always do my best to help :P](https://discord.gg/uEveqdr)<br>
+- 📫 [Or send me an e-mail](mailto:lucangevare@gmail.com)<br>
