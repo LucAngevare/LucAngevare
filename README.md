@@ -6,6 +6,7 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 <hr>
 
 ### My profiles
+<br>
 <a href="https://discord.gg/uEveqdr">
   <img align="left" alt="TechVerse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -31,6 +32,8 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 <hr>
 
 ### My latest StackOverflow posts
+
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Luc Angevare for (Node.JS Jimp) How do I center my text?](https://stackoverflow.com/questions/50330430/node-js-jimp-how-do-i-center-my-text/63235857#63235857)
 - [How to start recording when something is said Python?](https://stackoverflow.com/questions/53691128/how-to-start-recording-when-something-is-said-python)
@@ -41,9 +44,9 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 
 <br>
 <hr>
-<h3>My most used programming languages</h3>
+<h3>My most used programming languages</h3><br>
 
-<img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucAngevare&layout=compact&hide=html,css"/>
+<img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucAngevare&layout=compact&hide=html,css"/><br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -54,7 +57,7 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <hr>
-
+<br>
 
 <h3>My GitHub stats</h3>
 <img align="left" alt="LucAngevare's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LucAngevare&count_private=true&show_icons=true"/>
