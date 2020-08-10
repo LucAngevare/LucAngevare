@@ -27,4 +27,4 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 - 🤝 I’m looking to collaborate on <a href="https://github.com/LucAngevare/API">my API</a><br>
 - 🤔 I’m looking for help with Natural Language Processing in C++<br>
 - 💬 <a href="https://discord.gg/uEveqdr">Ask me anything on Discord, I'll always do my best to help :P</a><br>
-- 📫 <a href="mailto:lucangevare@gmail.com:>Or send me an e-mail</a><br>
+- 📫 <a href="mailto:lucangevare@gmail.com">Or send me an e-mail</a><br>
