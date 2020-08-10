@@ -1,5 +1,5 @@
 # Heya, I'm [Luc Angevare](https://lucangevare.github.io)<br><br>
----
+<hr>
 ### My profiles
 <a href="https://discord.gg/uEveqdr">
   <img align="left" alt="TechVerse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -16,12 +16,12 @@
 <a href="https://medium.com/@lucangevare/">
   <img align="left" alt="Medium.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a><br>
----
+<hr>
 <br><br>
 Heya, I'm Luc Angevare. I have been programming in Python since I was 11 and I have been trying new things ever since. My biggest goal is to become a professional developer and my current goal is to make a virtual, voice-controlled, NLP assistant.<br>
 I love getting feedback and improving so please, if there's anything I can do better or should change, please tell me!<br>
 Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.<br>
----<br>
+<hr><br>
 - 💻 I’m currently working on [my API](https://github.com/LucAngevare/API), this is going to be part of a voice-activated virtual assistant<br>
 - 🌱 I’m currently learning NodeJS and C++<br>
 - 🤝 I’m looking to collaborate on [my API](https://github.com/LucAngevare/API)<br>
