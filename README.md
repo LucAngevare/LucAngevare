@@ -22,9 +22,9 @@ I love getting feedback and improving so please, if there's anything I can do be
 Mostly what inspires me is learning, challenging myself and making new things, pushing myself out of my comfort zone to try and expand it.<br>
 <hr>
 <br>
-- 💻 I’m currently working on [my API](https://github.com/LucAngevare/API), this is going to be part of a voice-activated virtual assistant<br>
+- 💻 I’m currently working on <a href="https://github.com/LucAngevare/API">my API</a>, this is going to be part of a voice-activated virtual assistant<br>
 - 🌱 I’m currently learning NodeJS and C++<br>
-- 🤝 I’m looking to collaborate on [my API](https://github.com/LucAngevare/API)<br>
+- 🤝 I’m looking to collaborate on <a href="https://github.com/LucAngevare/API">my API</a><br>
 - 🤔 I’m looking for help with Natural Language Processing in C++<br>
-- 💬 [Ask me anything on Discord, I'll always do my best to help :P](https://discord.gg/uEveqdr)<br>
-- 📫 [Or send me an e-mail](mailto:lucangevare@gmail.com)<br>
+- 💬 <a href="https://discord.gg/uEveqdr">Ask me anything on Discord, I'll always do my best to help :P</a><br>
+- 📫 <a href="mailto:lucangevare@gmail.com:>Or send me an e-mail</a><br>
