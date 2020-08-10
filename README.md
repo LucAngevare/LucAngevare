@@ -35,11 +35,11 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Luc Angevare for How can I mount a remote server just like raspbian does it?](https://stackoverflow.com/questions/63340090/how-can-i-mount-a-remote-server-just-like-raspbian-does-it/63340777#63340777)
 - [Answer by Luc Angevare for (Node.JS Jimp) How do I center my text?](https://stackoverflow.com/questions/50330430/node-js-jimp-how-do-i-center-my-text/63235857#63235857)
 - [How to start recording when something is said Python?](https://stackoverflow.com/questions/53691128/how-to-start-recording-when-something-is-said-python)
 - [Answer by Luc Angevare for Illegal instruction: 4 on MacOS High Sierra](https://stackoverflow.com/questions/52681359/illegal-instruction-4-on-macos-high-sierra/52689282#52689282)
 - [Illegal instruction: 4 on MacOS High Sierra](https://stackoverflow.com/questions/52681359/illegal-instruction-4-on-macos-high-sierra)
-- [How do I make a bool to true once the condition is met and after the condition is met still stay true?](https://stackoverflow.com/questions/51423293/how-do-i-make-a-bool-to-true-once-the-condition-is-met-and-after-the-condition-i)
 <!-- STACKOVERFLOW:END -->
 
 <br>
