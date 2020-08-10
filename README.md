@@ -27,9 +27,10 @@ Mostly what inspires me is learning, challenging myself and making new things, p
 - 💬 <a href="https://discord.gg/uEveqdr">Ask me anything on Discord, I'll always do my best to help :P</a><br>
 - 📫 <a href="mailto:lucangevare@gmail.com">Or send me an e-mail</a><br>
 <hr>
-### My latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+### My latest Stackoverflow posts
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <br>
 <hr>
