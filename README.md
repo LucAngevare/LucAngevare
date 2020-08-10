@@ -1,5 +1,4 @@
 # Heya, I'm [Luc Angevare](https://lucangevare.github.io)<br><br>
-<hr>
 ### My profiles
 <a href="https://discord.gg/uEveqdr">
   <img align="left" alt="TechVerse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
