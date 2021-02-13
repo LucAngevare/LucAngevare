@@ -14,7 +14,7 @@
 <br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucangevare&show_icons=true&locale=en" alt="lucangevare"/>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>Data breaches found in websites:<br><img src="https://img.icons8.com/color/48/000000/4-c.png" width="40" height="40"/><br>
 Average grade in computer science (the class, not the study):<br><img src="https://img.icons8.com/emoji/48/000000/keycap-10-emoji.png" width="40" height="40"/>
 </p><br>
