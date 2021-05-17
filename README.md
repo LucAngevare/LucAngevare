@@ -16,7 +16,7 @@
 
 <br><br><br><br><br><br><br><br><br>
 <p>Data breaches found in websites:<br><img src="https://img.icons8.com/color/40/000000/4-c.png" width="40px" height="40px"/><br>
-Average grade in computer science (the class, not the study):<br><img src="https://img.icons8.com/emoji/48/000000/keycap-10-emoji.png" width="40" height="40"/>
+Average grade in computer science (the class, not the study):<br><img src="https://img.icons8.com/emoji/40/000000/keycap-10-emoji.png" width="40" height="40"/>
 </p><br>
 
 <h3 align="left">My major goals:</h3>
