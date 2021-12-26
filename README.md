@@ -1,7 +1,4 @@
 <h1 align="center">Heya, I'm <a href="https://lucangevare.github.io">Luc Angevare</a></h1>
-<h3 align="center">My brain sometimes doesn't work, but my BrAIn&trade; always does ;)</h3>
-<hr><br>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center"><a href="https://www.instagram.com/lucangevare/" target="_blank"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a> <a href="https://stackoverflow.com/users/8294421/luc-angevare" target="_blank"><img src="https://img.icons8.com/color/40/000000/stackoverflow.png"/></a> <a href="https://t.me/LucAngevare" target="_blank"><img src="https://img.icons8.com/fluent/40/000000/telegram-app.png"/></a> <a href="mailto:lucangevare@gmail.com"><img src="https://img.icons8.com/fluent/40/000000/email-open.png"/><a/></p>
