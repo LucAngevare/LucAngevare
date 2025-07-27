@@ -50,9 +50,10 @@
 <details>
 <summary><strong>BlackMagic-js</strong> | <code>npm install blackmagic-js</code></summary>
 
-A powerful JavaScript framework for implementing intelligent dark mode with automatic color adjustment and WCAG-compliant contrast optimization.
+[![NPM Downloads](https://img.shields.io/npm/dy/blackmagic-js?logo=npm&logoColor=red&color=red)](https://www.npmjs.com/package/blackmagic-js)
+[![jsDelivr Requests](https://data.jsdelivr.com/v1/package/npm/blackmagic-js/badge)](https://www.jsdelivr.com/package/npm/blackmagic-js)
 
-<!-- Metrics placeholder: add NPM downloads or version badge here -->
+A powerful JavaScript framework for implementing intelligent dark mode with automatic color adjustment and WCAG-compliant contrast optimization.
 
 </details>
 
